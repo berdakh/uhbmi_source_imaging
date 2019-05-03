@@ -1,0 +1,6 @@
+ExperimentersLeftArm	SI-000708
+ExperimentersRightArm	SI-000719
+InfantsLeftArm	SI-000722
+InfantsRightArm	SI-000738
+InfantsTrunk	SI-000742
+InfantsForehead	SI-000773
