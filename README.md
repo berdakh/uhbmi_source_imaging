@@ -1,5 +1,5 @@
 # uhbmi_source_imaging
-EEG analysis pipeline that I prepared before moving to Python.
+EEG analysis pipeline using the fieldtrip toolbox that I prepared before moving to Python.
 
 These sources were used in the following publications:
 
